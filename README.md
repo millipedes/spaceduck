@@ -1,3 +1,10 @@
+# millipede's Intro
+Thank you so much to all of those who have developed and maintain this awesome
+colorscheme!! I have only forked it because I like transparent colors in my
+neovim.  [Here](https://github.com/pineapplegiant/spaceduck) is a link to the
+original one. I have not modified the rest of this README since time of forking
+this repository.
+
 # Spaceduck 🚀🦆
 
 [![Stars](https://img.shields.io/github/stars/pineapplegiant/spaceduck?style=social)](https://img.shields.io/github/stars/pineapplegiant/spaceduck?style=social)
